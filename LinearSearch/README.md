@@ -13,7 +13,8 @@ Time Complexity:
             No matter the size of the list, if the element is found at the start of the list (index 0). 
             That is only one comparison is made to get the element.
             
-            ![image](https://user-images.githubusercontent.com/31203196/170693725-daf55f9b-d07d-4244-854b-15bdfaf440ae.png)
+            ![image](https://github.com/sammaurya/Algo/blob/master/Diagrams/LinearSearchBestCaseComplexity.svg)
+            ![alt text](https://github.com/sammaurya/Algo/blob/master/Diagrams/LinearSearchBestCaseComplexity.svg?raw=true)
 
             
     Worst Case: O(n)
