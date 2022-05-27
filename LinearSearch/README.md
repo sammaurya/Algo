@@ -13,7 +13,7 @@ Time Complexity:
             No matter the size of the list, if the element is found at the start of the list (index 0). 
             That is only one comparison is made to get the element.
             
- <p align="center">
+<p align="center">
 <img src="https://github.com/sammaurya/Algo/blob/master/Diagrams/LinearSearchBestCaseComplexity.svg" width="350" title="hover text">
 </p>
             
